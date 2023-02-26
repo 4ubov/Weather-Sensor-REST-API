@@ -1,4 +1,4 @@
-# RestSensor
+# REST API Sensor and Measurements
 Rest API and Client. Spring WEB, Spring Data JPA, Hibernate, Jackson, PostgreSQL, Validator, Java 17
 
 Реализовал небольшое REST API приложение, согласно Тех.Заданию
